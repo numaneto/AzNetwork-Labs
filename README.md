@@ -15,54 +15,50 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • Firewall Flow basic understanding. 
 
 
-Agenda
-Azure Virtual Networks (3 Weeks) 
-•	Vnet – Create / Understanding overlaps, limitations, and recommendations. 
-•	Subnet – Create, connected objects, scopes, and limitations.
-•	IPS – Types, Skus and practical uses. 
-•	NICs – When using multiple or unique, limitations and use cases. 
-•	NSG – When should be used, understanding the flow and filter lab with NSGs. 
-•	What’s HUB and Spoke topology? 
-•	Lab mission: To be defined and posted at 
+## The Plan:
 
+### Azure Virtual Networks (3 Weeks) 
+    • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
+    • Subnet – Create, connected objects, scopes, and limitations.
+    • IPS – Types, Skus and practical uses. 
+    • NICs – When using multiple or unique, limitations and use cases. 
+    • NSG – When should be used, understanding the flow and filter lab with NSGs. 
+    • What’s HUB and Spoke topology? 
+    • Lab mission: To be defined and posted at 
+
+### Azure Virtual network Peerings (2 Weeks)
+    • Peering
+    • Gateway Transit 
+    • User Defined Routes 
+    • Lab mission:
  
-
-Azure Virtual network Peerings (2 Weeks)
-•	Peering
-•	Gateway Transit 
-•	User Defined Routes 
-•	Lab mission:
-
+### Azure Virtual Network Gateway (2 Weeks)
+    • Connections
+    • Local Network Gateways
+    • VPN Site 2 Site / VPN Point 2 Site / Vnet to Vnet 
+    • Static or Dynamic Routing?
+    • Lab mission:
  
-Azure Virtual Network Gateway (2 Weeks)
-•	Connections
-•	Local Network Gateways
-•	VPN Site 2 Site / VPN Point 2 Site / Vnet to Vnet 
-•	Static or Dynamic Routing?
-•	Lab mission:
+### Azure Load Balancer (1 Week)
+    • Internal Load Balancer. 
+    • External Load Balancer.  
+    • Lab mission:
 
+### Azure Private Endpoint (1 Week)
+    • Create Private Endpoint. 
+    • Azure DNS - Private Zones / Vnet Links.
+    • Lab mission:
  
-Azure Load Balancer (1 Week)
-•	Internal Load Balancer. 
-•	External Load Balancer.  
-•	Lab mission:
+### Azure Firewall (2 Weeks)
+    • Deploy. 
+    • SKU, Options, Rule Collections. 
+    • Nat Gateway. 
+    • Nat options. 
+    • DNS Proxy. 
+    • Lab mission:
 
-Azure Private Endpoint (1 Week)
-•	Create Private Endpoint. 
-•	Azure DNS - Private Zones / Vnet Links.
-•	Lab mission:
+### Special Mission (2 Weeks)
+    • Building an Architecture with learned elements and resources.
 
- 
-Azure Firewall (2 Weeks)
-•	Deploy. 
-•	SKU, Options, Rule Collections. 
-•	Nat Gateway. 
-•	Nat options. 
-•	DNS Proxy. 
-•	Lab mission:
-
-Special Mission (2 Weeks)
-•	Building an Architecture with learned elements
-•	Use 
 
 
