@@ -60,7 +60,7 @@ References:
 [NSGs](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
 
 
-### Modeule 2 - Azure Virtual network Peerings
+### Module 2 - Azure Virtual network Peerings
 
 Time invested : 3 hours.
 
