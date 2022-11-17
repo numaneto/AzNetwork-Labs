@@ -44,6 +44,6 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
     
  8 - What's Hub and Spoke topology?
  
-     Please, read that : [Hub and Spoke - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
+ Please, read that : [Hub and Spoke - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
      
-   After the reading, share your thoughts in our next conversation. 
+ After the reading, share your thoughts in our next conversation. 
