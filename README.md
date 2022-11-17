@@ -4,10 +4,18 @@ Simple of Sample  \\,,/ - This a simple repo, to help in Azure Networking Rampup
 
 The main goal of this repo is cetralize lab missions from Azure Networking rampup. 
 
-### Requirements: 
-    • One hour per week – For 1x1 meetings and labs discussions. 
+### Requirements for Guided Version: 
+    • Find a mentor, can be some teammate, can be your tech lead, or some friend that have experience with this skillset.
+    • At least one hour per week – For 1x1 meetings and labs discussions. 
     • Azure Subscription. 
     • Azure Platform and Portal overall Knowledge.
+    
+### Requirements for Self Learning Version: 
+    • Have at least one hour per week, to read references, understand the oficial documentation.
+    • Discipline - Focus on that how much you want to grow.
+    • Azure Subscription. 
+    • Azure Platform and Portal overall Knowledge.
+    • Headset and a good Playlist. 
 
 ### Desirable skills: 
     • TCP/IP Basic understanding. 
@@ -23,6 +31,8 @@ References and external materials:
 [Nat Overview](https://www.youtube.com/watch?v=wg8Hosr20yw)
 
 ## The Plan:
+
+The main idea its use the references (all is based on official documentation) and the existent knowledge of your mentor, to talk about the main topics of each module and practice them with the Lab Mission. 
 
 ### Module 1 - Azure Virtual Networks
 
