@@ -14,6 +14,12 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • Nat ant RCF 1918 basic understanding. 
     • Firewall Flow basic understanding. 
 
+References and external materials:
+[Understading the RFC 1918](https://www.youtube.com/watch?v=WctFEaaWCMg)
+
+[What's is TCP?](https://www.youtube.com/watch?v=CRdL1PcherM)
+
+[Nat Overview](https://www.youtube.com/watch?v=wg8Hosr20yw)
 
 ## The Plan:
 
