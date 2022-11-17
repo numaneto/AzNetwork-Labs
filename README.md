@@ -5,10 +5,11 @@ Simple of Sample  \\,,/ - This a simple repo, to help in Azure Networking Rampup
 The main goal of this repo is cetralize lab missions from Azure Networking rampup. 
 
 ### Requirements: 
-
-  •	1 hour per week – For 1x1 meetings and labs discussions. 
-  •	Azure Subscription. 
-  •	Azure Platform and Portal overall Knowledge.
+ -1 hour per week – For 1x1 meetings and labs discussions. 
+ 
+ -Azure Subscription. 
+ 
+ -Azure Platform and Portal overall Knowledge.
 
 ### Desirable skills: 
   •	TCP/IP Basic understanding. 
