@@ -1,5 +1,7 @@
 Welcome to Azure Virtual Network Lab Mission. 
+
 The proposal of this lab is : 
+
 Using our discussion to provision a enviroment, to practice and memorize all elements and concepts. 
 
 1 - Create two VNET's with no overlaping, ok ?
@@ -20,14 +22,17 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
     
 
 5 - Create two NSGs:
+   
     1 - LabNSG1
     2 - LabNSG2 
     
 6 - Apply both NSGs under the subnet scopes, as follow:
+    
     1 - LabNSG1 - Apply at Subnets from VNET1. 
     2 - LabNSG2 - Apply at Subnets from VNET2. 
     
 7 - Let's insert some rules in this lab:
+    
     1 - VM1 does not like to receive RDP (TCP 3389) connections from VM2, VM3, but ok from VM4. 
     2 - VM2 does not like to receive RDP (TCP 3389) connections from any VMS, but from Public IP address from your home ( YES, your home =) ) , is ok. 
       PS : If you are looking for your Public IP adress, get in touch with this sites : 
