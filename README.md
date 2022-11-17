@@ -18,13 +18,15 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
 ## The Plan:
 
 ### Azure Virtual Networks (3 Weeks) 
+   Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/readme.md)
+   
     • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
     • Subnet – Create, connected objects, scopes, and limitations.
     • IPS – Types, Skus and practical uses. 
     • NICs – When using multiple or unique, limitations and use cases. 
     • NSG – When should be used, understanding the flow and filter lab with NSGs. 
     • What’s HUB and Spoke topology? 
-    • Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/readme.md)
+    
 
 ### Azure Virtual network Peerings (2 Weeks)
     • Peering
