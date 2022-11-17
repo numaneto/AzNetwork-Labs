@@ -2,14 +2,23 @@ Welcome to Azure Virtual Network Lab Mission.
 The proposal of this lab is : 
 Using our discussion to provision a enviroment, to practice and memorize all elements and concepts. 
 
-1 - Create two VNET's with no overlaping, ok ? 
-2 - Create at least two subnets in each VNET. 
-3 - Create one Virtual machine per subnet. 
+1 - Create two VNET's with no overlaping, ok ?
+
+2 - Create at least two subnets in each VNET.
+
+3 - Create one Virtual machine per subnet.
+
 4 - Each Virtual machine can receive a different IP Configuration in their NICs, for example: 
+
     VM1 / VNET1 / Subnet1 / IPConfig1 - Dynamic Internal IP, with no Public IP. 
+    
     VM2 / VNET1 / Subnet2 / IPConfig1 - Static  Internal IP, with Public IP. 
+    
     VM3 / VNET2 / Subnet1 / IPConfig1 - Static  Internal IP, with no Public IP. 
+    
     VM4 / VNET2 / Subnet2 / IPConfig1 - Dynamic Internal IP, with Public IP. 
+    
+
 5 - Create two NSGs:
     1 - LabNSG1
     2 - LabNSG2 
