@@ -24,7 +24,7 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • NICs – When using multiple or unique, limitations and use cases. 
     • NSG – When should be used, understanding the flow and filter lab with NSGs. 
     • What’s HUB and Spoke topology? 
-    • Lab mission: To be defined and posted at 
+    • Lab mission: [Azure Virtual Network Lab](https://github.com/numaneto/AzNet-RampUp/tree/main/AzureVirtualNetworks-LabMission)
 
 ### Azure Virtual network Peerings (2 Weeks)
     • Peering
