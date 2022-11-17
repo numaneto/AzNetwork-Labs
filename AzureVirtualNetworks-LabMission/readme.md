@@ -10,7 +10,7 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
 
 3 - Create one Virtual machine per subnet.
 
-4 - Each Virtual machine can receive a different IP Configuration in their NICs, for example: 
+4 - Each Virtual machine must receive a different IP Configuration in their NICs, following bellow: 
 
     VM1 / VNET1 / Subnet1 / IPConfig1 - Dynamic Internal IP, with no Public IP. 
     
@@ -41,6 +41,7 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
            # curl ifconfig.me 
     3 - VM3 would like to accept connections (All Protocols)  from All VMS. 
     4 - VM4 would like to receive connections (All protocols) from VM2 and from Public IP address from your home (yeap, your home again =) ). 
+    5 - Test all the proposed access. 
     
  8 - What's Hub and Spoke topology?
  
