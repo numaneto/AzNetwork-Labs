@@ -36,6 +36,16 @@ Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
   
 References:
 
+[What is Azure Virtual Network?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+
+[Public IP addresses](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
+
+[Virtual network traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+
+[Assign multiple IP addresses to virtual machines](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-portal)
+
+[NSGs](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
+
 
 ### Azure Virtual network Peerings (2 Weeks)
 Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMission/)
@@ -45,7 +55,7 @@ Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMissi
     • User Defined Routes 
 
 References:
-
+[Virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 
 ### Azure Virtual Network Gateway (2 Weeks)
 Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
