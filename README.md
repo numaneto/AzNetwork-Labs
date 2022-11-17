@@ -24,7 +24,10 @@ References and external materials:
 
 ## The Plan:
 
-### Azure Virtual Networks (3 Weeks) 
+### Module 1 - Azure Virtual Networks
+
+Time invested : 3 hours.
+
 Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
    
     • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
@@ -47,7 +50,10 @@ References:
 [NSGs](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
 
 
-### Azure Virtual network Peerings (2 Weeks)
+### Modeule 2 - Azure Virtual network Peerings
+
+Time invested : 3 hours.
+
 Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMission/)
     
     • Peering
@@ -57,7 +63,10 @@ Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMissi
 References:
 [Virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 
-### Azure Virtual Network Gateway (2 Weeks)
+### Module 3 - Azure Virtual Network Gateway
+
+Time invested : 4 hours.
+
 Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
     
     • Connections
@@ -68,7 +77,10 @@ Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
 References:
 
 
-### Azure Load Balancer (1 Week)
+### Module 4 - Azure Load Balancer
+
+Time invested : 2 hours.
+
 Lab mission: [Azure Load Balancer Lab](ALB-LabMission/)
 
     • Internal Load Balancer. 
@@ -77,7 +89,10 @@ Lab mission: [Azure Load Balancer Lab](ALB-LabMission/)
 References:
 
 
-### Azure Private Endpoint (1 Week)
+### Module 5 - Azure Private Endpoint
+
+Time invested : 2 hours.
+
 Lab mission: [Azure Private Endpoint Lab](PrivateEndpoint-LabMission/)
 
     • Create Private Endpoint. 
@@ -87,7 +102,10 @@ Lab mission: [Azure Private Endpoint Lab](PrivateEndpoint-LabMission/)
 References:
 
 
-### Azure Firewall (2 Weeks)
+### Module 6 - Azure Firewall 
+
+Time invested : 4 hours.
+
 Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
     
     • Deploy. 
@@ -99,7 +117,10 @@ Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
 References:
 
 
-### Special Mission (2 Weeks) 
+### Special Mission
+
+Time invested : 6 hours.
+
 Lab mission: [Special Mission](SpecialMission/)
 
     • Building an Architecture with learned elements and resources.
