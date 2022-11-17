@@ -18,7 +18,7 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
 ## The Plan:
 
 ### Azure Virtual Networks (3 Weeks) 
-   Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
+Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
    
     • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
     • Subnet – Create, connected objects, scopes, and limitations.
@@ -26,7 +26,9 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • NICs – When using multiple or unique, limitations and use cases. 
     • NSG – When should be used, understanding the flow and filter lab with NSGs. 
     • What’s HUB and Spoke topology? 
-    
+  
+References:
+
 
 ### Azure Virtual network Peerings (2 Weeks)
 Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMission/)
@@ -34,8 +36,10 @@ Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMissi
     • Peering
     • Gateway Transit 
     • User Defined Routes 
-    • Lab mission:
- 
+
+References:
+
+
 ### Azure Virtual Network Gateway (2 Weeks)
 Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
     
@@ -43,22 +47,29 @@ Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
     • Local Network Gateways
     • VPN Site 2 Site / VPN Point 2 Site / Vnet to Vnet 
     • Static or Dynamic Routing?
-    • Lab mission:
- 
+
+References:
+
+
 ### Azure Load Balancer (1 Week)
 Lab mission: [Azure Load Balancer Lab](ALB-LabMission/)
 
     • Internal Load Balancer. 
     • External Load Balancer.  
-    • Lab mission:
+    
+References:
+
 
 ### Azure Private Endpoint (1 Week)
 Lab mission: [Azure Private Endpoint Lab](PrivateEndpoint-LabMission/)
 
     • Create Private Endpoint. 
+    • 
     • Azure DNS - Private Zones / Vnet Links.
-    • Lab mission:
- 
+    
+References:
+
+
 ### Azure Firewall (2 Weeks)
 Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
     
@@ -67,7 +78,9 @@ Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
     • Nat Gateway. 
     • Nat options. 
     • DNS Proxy. 
-    • Lab mission:
+
+References:
+
 
 ### Special Mission (2 Weeks) 
 Lab mission: [Special Mission](SpecialMission/)
