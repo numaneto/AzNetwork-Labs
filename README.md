@@ -18,7 +18,7 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
 ## The Plan:
 
 ### Azure Virtual Networks (3 Weeks) 
-   Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/readme.md)
+   Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
    
     • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
     • Subnet – Create, connected objects, scopes, and limitations.
@@ -29,12 +29,16 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     
 
 ### Azure Virtual network Peerings (2 Weeks)
+Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMission/)
+    
     • Peering
     • Gateway Transit 
     • User Defined Routes 
     • Lab mission:
  
 ### Azure Virtual Network Gateway (2 Weeks)
+Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
+    
     • Connections
     • Local Network Gateways
     • VPN Site 2 Site / VPN Point 2 Site / Vnet to Vnet 
@@ -42,16 +46,22 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • Lab mission:
  
 ### Azure Load Balancer (1 Week)
+Lab mission: [Azure Load Balancer Lab](ALB-LabMission/)
+
     • Internal Load Balancer. 
     • External Load Balancer.  
     • Lab mission:
 
 ### Azure Private Endpoint (1 Week)
+Lab mission: [Azure Private Endpoint Lab](PrivateEndpoint-LabMission/)
+
     • Create Private Endpoint. 
     • Azure DNS - Private Zones / Vnet Links.
     • Lab mission:
  
 ### Azure Firewall (2 Weeks)
+Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
+    
     • Deploy. 
     • SKU, Options, Rule Collections. 
     • Nat Gateway. 
@@ -59,7 +69,9 @@ The main goal of this repo is cetralize lab missions from Azure Networking rampu
     • DNS Proxy. 
     • Lab mission:
 
-### Special Mission (2 Weeks)
+### Special Mission (2 Weeks) 
+Lab mission: [Special Mission](SpecialMission/)
+
     • Building an Architecture with learned elements and resources.
 
 
