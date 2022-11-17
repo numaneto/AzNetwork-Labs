@@ -43,4 +43,7 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
     4 - VM4 would like to receive connections (All protocols) from VM2 and from Public IP address from your home (yeap, your home again =) ). 
     
  8 - What's Hub and Spoke topology?
+ 
      Please, read that : [Hub and Spoke - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
+     
+     After the reading, share your thoughts in our next conversation. 
