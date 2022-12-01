@@ -30,6 +30,8 @@ References and external materials:
 
 [Nat Overview](https://www.youtube.com/watch?v=wg8Hosr20yw)
 
+[IP Calculator(https://jodies.de/ipcalc)]
+
 ## The Plan:
 
 The main idea its use the references (all is based on official documentation) and the existent knowledge of your mentor, to talk about the main topics of each module and practice them with the Lab Mission. 
