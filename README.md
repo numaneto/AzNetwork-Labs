@@ -30,7 +30,7 @@ References and external materials:
 
 [Nat Overview](https://www.youtube.com/watch?v=wg8Hosr20yw)
 
-[IP Calculator(https://jodies.de/ipcalc)]
+[IP Calculator](https://jodies.de/ipcalc)
 
 ## The Plan:
 
