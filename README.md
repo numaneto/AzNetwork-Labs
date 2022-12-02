@@ -1,8 +1,8 @@
 # Azure Network Basics – Self (or guided) Ramp up Plan
 
-Simple of Sample  \\,,/ - This a simple repo, to help in Azure Networking Rampup - Lab and tests missions. 
+Simple of Sample  \\,,/ - This is a simple repo, to help in Azure Networking Rampup - Lab and tests missions. 
 
-The main goal of this repo is cetralize lab missions from Azure Networking rampup. 
+The main goal of this repo is centralize lab missions from Azure Networking rampup. 
 
 ### Requirements for Guided Version: 
     • Find a mentor, can be some teammate, can be your tech lead, or some friend that have experience with this skillset.
