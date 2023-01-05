@@ -1,22 +1,16 @@
-# Azure Network Basics – Self (or guided) Ramp up Plan
+# Azure Network Basics – Guided Ramp up Plan
 
-Simple of Sample  \\,,/ - This is a simple repo, to help in Azure Networking Rampup - Lab and tests missions. 
+This is a simple repo, to help in Azure Networking Rampup - Lab and tests missions. 
 
 The main goal of this repo is centralize lab missions from Azure Networking rampup. 
 
-### Requirements for Guided Version: 
+### Requirements: 
     • Find a mentor, can be some teammate, can be your tech lead, or some friend that have experience with this skillset.
     • At least one hour per week – For 1x1 meetings and labs discussions. 
     • Azure Subscription. 
     • Azure Platform and Portal overall Knowledge.
-    
-### Requirements for Self Learning Version: 
-    • Have at least one hour per week, to read references, understand the oficial documentation.
-    • Discipline - Focus on that how much you want to grow.
-    • Azure Subscription. 
-    • Azure Platform and Portal overall Knowledge.
     • Headset and a good Playlist. 
-
+    
 ### Desirable skills: 
     • TCP/IP Basic understanding. 
     • Nat ant RCF 1918 basic understanding. 
@@ -47,8 +41,7 @@ Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
     • IPS – Types, Skus and practical uses. 
     • NICs – When using multiple or unique, limitations and use cases. 
     • NSG – When should be used, understanding the flow and filter lab with NSGs. 
-    • What’s HUB and Spoke topology? 
-  
+      
 References:
 
 [What is Azure Virtual Network?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
