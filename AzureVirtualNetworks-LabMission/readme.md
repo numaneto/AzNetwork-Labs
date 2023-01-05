@@ -43,6 +43,4 @@ Using our discussion to provision a enviroment, to practice and memorize all ele
     4 - VM4 would like to receive connections (All protocols) from VM2 and from Public IP address from your home (yeap, your home again =) ). 
     5 - Test all the proposed access. 
     
- 8 - Lab Dump:
- 
-     Coming soon. 
+
