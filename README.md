@@ -1,15 +1,17 @@
-# Azure Network Basics – Guided Ramp up Plan
+# Azure Network Labs
 
-This is a simple repo, to help in Azure Networking Rampup - Lab and tests missions. 
+This is a simple repo, to help in Azure Networking Rampup - using Labs to do that. 
 
-The main goal of this repo is centralize lab missions from Azure Networking rampup. 
+My First idea with this repo is take off the papper my draws and tests or labs. 
+
+I have been working with large scale networks and since 2021 with Cloud Networking, with Azure most of the time. 
+
+Hope you like an enjoy this ride with me. 
 
 ### Requirements: 
-    • Find a mentor, can be some teammate, can be your tech lead, or some friend that have experience with this skillset.
-    • At least one hour per week – For 1x1 meetings and labs discussions. 
     • Azure Subscription. 
     • Azure Platform and Portal overall Knowledge.
-    • Headset and a good Playlist. 
+    • Headset or Stereo and a good Playlist. (Follow me at spotify to find some - @numaneto)
     
 ### Desirable skills: 
     • TCP/IP Basic understanding. 
@@ -28,107 +30,12 @@ References and external materials:
 
 ## The Plan:
 
-The main idea its use the references (all is based on official documentation) and the existent knowledge of your mentor, to talk about the main topics of each module and practice them with the Lab Mission. 
+The main idea will be to have in all scenarios : 
 
-### Module 1 - Azure Virtual Networks
-
-Time invested : 3 hours.
-
-Lab mission: [Azure Virtual Network Lab](AzureVirtualNetworks-LabMission/)
-   
-    • Vnet – Create / Understanding overlaps, limitations, and recommendations. 
-    • Subnet – Create, connected objects, scopes, and limitations.
-    • IPS – Types, Skus and practical uses. 
-    • NICs – When using multiple or unique, limitations and use cases. 
-    • NSG – When should be used, understanding the flow and filter lab with NSGs. 
-      
-References:
-
-[What is Azure Virtual Network?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
-
-[Public IP addresses](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
-
-[Virtual network traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
-
-[Assign multiple IP addresses to virtual machines](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-portal)
-
-[NSGs](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
-
-
-### Module 2 - Azure Virtual network Peerings
-
-Time invested : 3 hours.
-
-Lab mission: [Azure Virtual Network Peering Lab](VirtualNetworkPeerings-LabMission/)
-    
-    • Peering
-    • Gateway Transit 
-    • User Defined Routes 
-
-References:
-[Virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
-
-### Module 3 - Azure Virtual Network Gateway
-
-Time invested : 4 hours.
-
-Lab mission: [Azure Virtual Network Gateway Lab](VNG-LabMission/)
-    
-    • Connections
-    • Local Network Gateways
-    • VPN Site 2 Site / VPN Point 2 Site / Vnet to Vnet 
-    • Static or Dynamic Routing?
-
-References:
-
-
-### Module 4 - Azure Load Balancer
-
-Time invested : 2 hours.
-
-Lab mission: [Azure Load Balancer Lab](ALB-LabMission/)
-
-    • Internal Load Balancer. 
-    • External Load Balancer.  
-    
-References:
-
-
-### Module 5 - Azure Private Endpoint
-
-Time invested : 2 hours.
-
-Lab mission: [Azure Private Endpoint Lab](PrivateEndpoint-LabMission/)
-
-    • Create Private Endpoint. 
-    • 
-    • Azure DNS - Private Zones / Vnet Links.
-    
-References:
-
-
-### Module 6 - Azure Firewall 
-
-Time invested : 4 hours.
-
-Lab mission: [Azure Firewall Lab](AZFW-LabMission/)
-    
-    • Deploy. 
-    • SKU, Options, Rule Collections. 
-    • Nat Gateway. 
-    • Nat options. 
-    • DNS Proxy. 
-
-References:
-
-
-### Special Mission
-
-Time invested : 6 hours.
-
-Lab mission: [Special Mission](SpecialMission/)
-
-    • Building an Architecture with learned elements and resources.
+- The GOAL -  What i trying to solve or discorevey or , test indeed ? 
+- Diagram or architecture (more complex cases). 
+- script to make the magic happen or part of the magic. 
+- My findings or learnings in that case. 
 
 
 
