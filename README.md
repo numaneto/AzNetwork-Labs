@@ -39,4 +39,4 @@ The main idea will be to have in all scenarios :
 
 
 # The Labs
-[1 - MultiHub and Spokes + Route Server and Route Reflector]
+1 - [Multi HUB & Spokes + Azure Route Server + Route Reflector](Mhub_Spokes_ARS_Refletcor)
