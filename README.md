@@ -1,12 +1,12 @@
 # Azure Network Labs
 
-This is a simple repo, to help in Azure Networking Rampup - using Labs to do that. 
+This is a simple repository to help in Azure Networking Rampup - using Labs to do that. 
 
-My First idea with this repo is take off the papper my draws and tests or labs. 
+My idea with this repository is take off the papper my draws and tests or labs. 
 
 I have been working with large scale networks and since 2021 with Cloud Networking, with Azure most of the time. 
 
-Hope you like an enjoy this ride with me. 
+Hope you like this ride! 
 
 ### Requirements: 
     • Azure Subscription. 
@@ -28,14 +28,22 @@ References and external materials:
 
 [IP Calculator](https://jodies.de/ipcalc)
 
+Github Guys that inspire me to create this content : 
+https://github.com/dmauser
+https://github.com/erjosito
+https://github.com/adstuart
+
+DISCLAIMER : Expect to see some similar content or scripts from these pages above - I will give the merits to the author always.  
+
+
 ## The Plan:
 
 The main idea will be to have in all scenarios : 
 
-- The GOAL -  What i trying to solve or discorevey or , test indeed ? 
-- Diagram or architecture (more complex cases). 
-- script to make the magic happen or part of the magic. 
-- My findings or learnings in that case. 
+1 -  The GOAL -  What i trying to solve or discorevey or test indeed ? 
+2 -  Diagram or architecture. 
+3 -  script to make the magic happen or part of the magic. 
+4 -  My findings or learnings in that case. 
 
 
 # The Labs
