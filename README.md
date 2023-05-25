@@ -30,7 +30,9 @@ References and external materials:
 
 Github Guys that inspire me to create this content : 
 https://github.com/dmauser
+
 https://github.com/erjosito
+
 https://github.com/adstuart
 
 DISCLAIMER : Expect to see some similar content or scripts from these pages above - I will give the merits to the author always.  
@@ -39,11 +41,10 @@ DISCLAIMER : Expect to see some similar content or scripts from these pages abov
 ## The Plan:
 
 The main idea will be to have in all scenarios : 
-
-1 -  The GOAL -  What i trying to solve or discorevey or test indeed ? 
-2 -  Diagram or architecture. 
-3 -  script to make the magic happen or part of the magic. 
-4 -  My findings or learnings in that case. 
+ • 1 -  The GOAL -  What i trying to solve or discorevey or test indeed ? 
+ • 2 -  Diagram or architecture. 
+ • 3 -  script to make the magic happen or part of the magic. 
+ • 4 -  My findings or learnings in that case. 
 
 
 # The Labs
