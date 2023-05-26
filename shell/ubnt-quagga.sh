@@ -91,17 +91,23 @@ log file /var/log/quagga/bgpd.log informational
 !
 router bgp $asn_quagga
  bgp router-id $bgp_routerId
- network $bgp_network1
- network $bgp_network2
+ network $Spoke_network
  neighbor $routeserver_IP1 remote-as 65515
+ neighbor $routeserver_IP1 route-map ARS out
  neighbor $routeserver_IP1 soft-reconfiguration inbound
  neighbor $routeserver_IP2 remote-as 65515
+ neighbor $routeserver_IP2 route-map ARS out
  neighbor $routeserver_IP2 soft-reconfiguration inbound
 !
  address-family ipv6
  exit-address-family
  exit
 !
+route-map ARS permit 10
+ match ip address Spoke
+ set ip next-hop $AZFW-Hub-nPROD-pvt-IP
+!
+access-list Spoke permit $Spoke_network
 line vty
 !
 EOF
