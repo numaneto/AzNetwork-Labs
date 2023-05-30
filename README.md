@@ -41,10 +41,14 @@ DISCLAIMER : Expect to see some similar content or scripts from these pages abov
 ## The Plan:
 
 The main idea will be to have in all scenarios : 
- • 1 -  The GOAL -  What i trying to solve or discorevey or test indeed ? 
- • 2 -  Diagram or architecture. 
- • 3 -  script to make the magic happen or part of the magic. 
- • 4 -  My findings or learnings in that case. 
+
+• The GOAL -  What i trying to solve or discorevey or test indeed ? 
+
+• Diagram or architecture. 
+
+• Script to make the magic happen or part of the magic. 
+
+• My findings or learnings in that case. 
 
 
 # The Labs
