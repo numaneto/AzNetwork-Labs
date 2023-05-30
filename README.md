@@ -52,4 +52,4 @@ The main idea will be to have in all scenarios :
 
 
 # The Labs
-1 - [Multi HUB & Spokes + Azure Route Server + Route Injector](Mhub_Spokes_ARS_Injector)
+1 - [Two HUBs & Spokes + Azure Route Server + Route Injector](Mhub_Spokes_ARS_Injector)
