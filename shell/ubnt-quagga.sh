@@ -18,7 +18,7 @@ bgp_routerId=$2
 Spoke_network=$3
 routeserver_IP1=$4
 routeserver_IP2=$5
-AZFW-Hub-nPROD-pvt-IP=$6
+AZFW_Hub_nPROD_pvt_IP=$6
 
 sudo apt-get -y update
 
@@ -105,7 +105,7 @@ router bgp $asn_quagga
 !
 route-map ARS permit 10
  match ip address Spoke
- set ip next-hop $AZFW-Hub-nPROD-pvt-IP
+ set ip next-hop $AZFW_Hub_nPROD_pvt_IP
 !
 access-list Spoke permit $Spoke_network
 line vty
