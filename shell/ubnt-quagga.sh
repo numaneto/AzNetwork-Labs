@@ -18,6 +18,7 @@ bgp_routerId=$2
 Spoke_network=$3
 routeserver_IP1=$4
 routeserver_IP2=$5
+AZFW-Hub-nPROD-pvt-IP=$6
 
 sudo apt-get -y update
 
