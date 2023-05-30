@@ -15,10 +15,9 @@ sed -i "/net.ipv6.conf.all.forwarding=1/ s/# *//" /etc/sysctl.conf
 # Parameters
 asn_quagga=$1
 bgp_routerId=$2
-bgp_network1=$3
-bgp_network2=$4
-routeserver_IP1=$5
-routeserver_IP2=$6
+Spoke_network=$3
+routeserver_IP1=$4
+routeserver_IP2=$5
 
 sudo apt-get -y update
 
