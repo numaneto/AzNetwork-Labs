@@ -36,20 +36,14 @@ https://github.com/erjosito
 
 https://github.com/adstuart
 
-DISCLAIMER : Expect to see some similar content or scripts from these pages above - I will give the merits to the author always.  
 
+## What's the Plan?
 
-## The Plan:
-
-The main idea will be to have in all scenarios : 
-
-• The GOAL -  What i trying to solve or discorevey or test indeed ? 
-
-• Diagram or architecture. 
-
-• Script to make the magic happen or part of the magic. 
-
-• My findings or learnings in that case. 
+### The main idea will be to have in all scenarios: 
+    • A goal - What i trying to solve or discorevey or test? 
+    • Diagram or architecture. 
+    • Script to make the magic happen. 
+    • My findings or learnings in that case. 
 
 
 # The Labs
