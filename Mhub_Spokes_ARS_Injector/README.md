@@ -42,13 +42,13 @@ I have created a shell script that automates the deployment of all the necessary
 You can find the script here:[MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ars-nvabgp.sh)
 
 ##### Basic Guidance to use this script: 
-     Before running the script, ensure that you have logged in to Azure CLI and configured the appropriate Azure account.
-     To start the deployment in Azure, simply execute the script using the command ./script.sh.
-     If you want to clean up all resources without confirmation prompts, use ./script.sh CLEAN.
-     Make sure you have the Azure Firewall extension for Azure CLI installed. If not, you can add it by running the command az extension add --name azure-firewall.
-     Please note that the deployment of Azure Route Server may take some time, typically around 30 minutes.
-     The Virtual Network Gateway will be deployed with the --no-wait option. This means that although the script will finish, the VNG status will remain as "Updating" for approximately 40 minutes.
-     It is highly recommended to delete the lab at the end of the day to minimize costs.
+    • Before running the script, ensure that you have logged in to Azure CLI and configured the appropriate Azure account.
+    • To start the deployment in Azure, simply execute the script using the command ./script.sh.
+    • If you want to clean up all resources without confirmation prompts, use ./script.sh CLEAN.
+    • Make sure you have the Azure Firewall extension for Azure CLI installed. If not, you can add it by running the command az extension add --name azure-firewall.
+    • Please note that the deployment of Azure Route Server may take some time, typically around 30 minutes.
+    • The Virtual Network Gateway will be deployed with the --no-wait option. This means that although the script will finish, the VNG status will remain as "Updating" for approximately 40 minutes.
+    • It is highly recommended to delete the lab at the end of the day to minimize costs.
        
 ##### Resources created by this script: 
   
