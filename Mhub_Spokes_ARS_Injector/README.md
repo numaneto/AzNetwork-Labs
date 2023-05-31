@@ -58,7 +58,7 @@ You can find the script here:[MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/
 ##### Results / Learnings : 
 After the deployment process is completed, go to the Virtual Network Gateway and observe the BGP Peers. What should we expect?
 
-Routes from nPRD Spoke with ASPath originating from our NVA (ASPath set to 65020).
+Routes from nPRD Spoke with ASPath originating from our NVA.
 
 This route should be directed towards the private IP of the nPRD HUB Azure Firewall.
 
