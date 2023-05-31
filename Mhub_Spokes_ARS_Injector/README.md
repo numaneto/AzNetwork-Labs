@@ -1,20 +1,14 @@
 
 # Two HUBS & Spokes With Azure Firewall + Azure Route Server + Nva with BGP
+## Description:
 
-##The GOAL:  What i trying to solve or discorevey or test indeed ? 
+The main goal of this test/lab is practice with Azure Route Server and watch how that can be versatile. 
 
-##Diagram:
-
-##Script:
-
-##Lessons Learned:
+The Big Picture explained: 
 
 
-### How to use: 
-    • Azure Subscription. 
-    • Azure Platform and Portal overall Knowledge.
-    • Headset or Stereo and a good Playlist. (Follow me at spotify to find some - @numaneto)
-    
+
+
 
 
 
