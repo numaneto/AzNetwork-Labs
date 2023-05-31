@@ -5,7 +5,8 @@
 The main goal of this test/lab is practice with Azure Route Server and watch how that can be versatile. 
 
 The Big Picture explained: 
-![What is this](myimage.png))
+
+![Diagram](github-Multihub-and-SingleSpokes.png))
 
 
 
