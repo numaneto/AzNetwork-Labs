@@ -2,25 +2,23 @@
 ## Two HUBS & Spokes With Azure Firewall + Azure Route Server + Nva with BGP
 ### Description:
 
-*Disclaimer*: This lab is not a recomendation, it's an exercise. 
+*Disclaimer*: This lab is not a recommendation; it's an exercise.
 
-The main goal of this test/lab is practice with Azure Route Server and watch how that can be versatile. 
+The main goal of this test/lab is to practice with Azure Route Server and observe its versatility.
 
-This topology consists in Spokes using Azure as default gateway by Peerings and UDRs. 
+This topology consists of Spokes using Azure as the default gateway through Peerings and UDRs.
 
-Virtual Network Gateway will advertise just the ipv4 prefixe's from PROD-HUB and PROD-Spokes. 
+The Virtual Network Gateway will only advertise the IPv4 prefixes from PROD-HUB and PROD-Spokes.
 
-The ideia is using a Azure Route Server and NVA to reflect routes from NPROD Spokes (*behind to NPROD-HUB*) to Virtual Network Gateway and to onpremises, if you have some VPN Connection. 
+The idea is to use an Azure Route Server and NVA to reflect routes from NPROD Spokes (located behind NPROD-HUB) to the Virtual Network Gateway and to on-premises if you have a VPN connection.
 
-To do that, we need to set Azure Route Server in Branch to Branch mode (*It's will configure iBGP between ARS and VNG automatically*) 
+To achieve this, we need to configure the Azure Route Server in Branch to Branch mode, which will automatically set up iBGP between ARS and VNG.
 
-and last, but not less, setting up our NVA to inject NPROD Spokes Network to ARS, poiting this route to the Azure Firewall from NPROD HUB. 
+Last but not least, we need to configure our NVA to inject NPROD Spokes Network into ARS, pointing this route to the Azure Firewall from NPROD HUB.
 
-Well, we will need to use routemap in BGP options to change the nexthop optiosn for this advertised routes. 
+Don't worry - we have a shell script to handle all these tasks for us.
 
-Don't  worry - we have some shell script to do all this stuff for us. 
-
-*grab a coffee mate! And let's routing the cloud*.
+*Grab a coffee, mate! Let's route the cloud*.
 
 ### The Big Picture explained: 
 
