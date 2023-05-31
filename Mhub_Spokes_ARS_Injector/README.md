@@ -30,7 +30,7 @@ Don't worry - we have a shell script to handle all these tasks for us.
     • 1x Virtual Network Gateway
     • 1x Linux Virtual Machine with Quagga software for BGP Service
     
-*Onpremises Side is just for ilustrate*.
+*On-premises Side is just for ilustrate*.
 
 ![Diagram](../Images/github-Multihub-and-SingleSpokes.png)
 
