@@ -51,11 +51,29 @@ Check them here : [MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ar
       5 - Azure Route Server deployment can be take some minutes (kind of 30 mins). 
       6 - Virtual Network Gateway will be deployed with --no-wait options and this mean that the script will end, but for around 40 minutes
           VNG will stay in status "Updating". 
-      7 - Delete the lab in the end of day is really good to save some money. 
- 
+      7 - Delete the lab in the end of day is high recommended to save costs.
+       
  ##### Resources created by this script: 
   
  ![ResourceDump](../Images/mhub-spks-ars-nvabgp-azfw-resourcesdump.png) 
+ 
+ 
+ ##### Results / Learnings : 
+After all the deployment end's - go to Virtual Network Gateway and watch BGP Peer's - What we must expect ? 
+
+*Routes from nPRD Spoke with ASPath from our NVA (In this case i set to 65020);*
+
+*This route must be pointed to the private IP of nPRD HUB Azure Firewall;* 
+
+ ![ResourceDump](../Images/mhub-spks-vng-results.png)
+ 
+ 
+ Yes! we have a route injector! 
+ 
+ See you on the next ride. 
+ 
+ 
+ 
  
 
 
