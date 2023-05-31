@@ -46,5 +46,5 @@ https://github.com/adstuart
     • My findings or learnings in that case. 
 
 
-# The Labs
+# Scenarios
 1 - [Two HUBs & Spokes + Azure Route Server + Route Injector](Mhub_Spokes_ARS_Injector)
