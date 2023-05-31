@@ -1,6 +1,6 @@
 #!/bin/bash
 # MultiHub and Spokes - Deployment Script 
-# Writen by Numa Neto - numam@microsoft.com 
+# Writen by Numa Neto - numaneto@outlook.com 
 # More information or comments on my GitHub profile - github.com/numaneto
 #
 # Variables :
