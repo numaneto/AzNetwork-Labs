@@ -35,53 +35,37 @@ Don't worry - we have a shell script to handle all these tasks for us.
 ![Diagram](../Images/github-Multihub-and-SingleSpokes.png)
 
 
-##### How to Deploy all this Resources ?
+##### How to Deploy all these Resources?
 
-I wrote a shell script that will deploy all resources needed to build this topology. 
+I have created a shell script that automates the deployment of all the necessary resources to build this topology.
 
-Check them here : [MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ars-nvabgp.sh)
+You can find the script here:[MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ars-nvabgp.sh)
 
 ##### Basic Guidance to use this script: 
-      1 - All this script run with Azure CLI and login process and setup of the right account must be done before the running. 
-      2 - Using just ./script.sh - you will start the deployment in Azure. 
-      3 - Using ./script.sh CLEAN - you will clean all resources with no confirmation needs. 
-      4 - You must have the Azure Firewall extension for Azure CLI (az extension add --name azure-firewall).
-      5 - Azure Route Server deployment can be take some minutes (kind of 30 mins). 
-      6 - Virtual Network Gateway will be deployed with --no-wait options and this mean that the script will end, but for around 40 minutes
-          VNG will stay in status "Updating". 
-      7 - Delete the lab in the end of day is high recommended to save costs.
+     Before running the script, ensure that you have logged in to Azure CLI and configured the appropriate Azure account.
+     To start the deployment in Azure, simply execute the script using the command ./script.sh.
+     If you want to clean up all resources without confirmation prompts, use ./script.sh CLEAN.
+     Make sure you have the Azure Firewall extension for Azure CLI installed. If not, you can add it by running the command az extension add --name azure-firewall.
+     Please note that the deployment of Azure Route Server may take some time, typically around 30 minutes.
+     The Virtual Network Gateway will be deployed with the --no-wait option. This means that although the script will finish, the VNG status will remain as "Updating" for approximately 40 minutes.
+     It is highly recommended to delete the lab at the end of the day to minimize costs.
        
- ##### Resources created by this script: 
+##### Resources created by this script: 
   
  ![ResourceDump](../Images/mhub-spks-ars-nvabgp-azfw-resourcesdump.png) 
  
  
- ##### Results / Learnings : 
-After all the deployment end's - go to Virtual Network Gateway and watch BGP Peer's - What we must expect ? 
+##### Results / Learnings : 
+After the deployment process is completed, go to the Virtual Network Gateway and observe the BGP Peers. What should we expect?
 
-*Routes from nPRD Spoke with ASPath from our NVA (In this case i set to 65020);*
+Routes from nPRD Spoke with ASPath originating from our NVA (ASPath set to 65020).
 
-*This route must be pointed to the private IP of nPRD HUB Azure Firewall;* 
+This route should be directed towards the private IP of the nPRD HUB Azure Firewall.
 
- ![ResourceDump](../Images/mhub-spks-vng-results.png)
+![ResourceDump](../Images/mhub-spks-vng-results.png)
+
+Exciting news! We now have a route injector in place!
+
+Thank you for joining this journey, and see you in the next one!
+
  
- 
- Yes! we have a route injector! 
- 
- See you on the next ride. 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
