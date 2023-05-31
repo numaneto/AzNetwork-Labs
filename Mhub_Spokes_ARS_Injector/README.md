@@ -47,11 +47,15 @@ Check them here : [MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ar
       1 - All this script run with Azure CLI and login process and setup of the right account must be done before the running. 
       2 - Using just ./script.sh - you will start the deployment in Azure. 
       3 - Using ./script.sh CLEAN - you will clean all resources with no confirmation needs. 
-      4 - You must have the Azure Firewall extension for Azure CLI (*# az extension add --name azure-firewall*).
-      5 - The Azure Route Server deployment can be take some minutes (*kind of 30 mins*). 
-      6 - The Virtual Network Gateway will be deployed with --no-wait options and this mean that the script will end, but for around 40 minutes, VNG will stay in status "Updating". 
-      
-     
+      4 - You must have the Azure Firewall extension for Azure CLI (az extension add --name azure-firewall).
+      5 - Azure Route Server deployment can be take some minutes (kind of 30 mins). 
+      6 - Virtual Network Gateway will be deployed with --no-wait options and this mean that the script will end, but for around 40 minutes, VNG will stay in status "Updating". 
+      7 - Delete the lab in the end of day is really good to save some money. 
+ 
+ ##### Resources created by this script: 
+  
+ ![ResourceDump](../Images/mhub-spks-ars-nvabgp-azfw-resourcesdump.png) 
+ 
 
 
 
