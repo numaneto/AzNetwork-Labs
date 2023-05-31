@@ -20,7 +20,7 @@ Well, we will need to use routemap in BGP options to change the nexthop optiosn 
 
 Don't  worry - we have some shell script to do all this stuff for us. 
 
-**grab a coffee mate! And let's routing the cloud. 
+*grab a coffee mate! And let's routing the cloud.*
 
 #### The Big Picture explained: 
 
@@ -41,7 +41,7 @@ Onpremises Side is just for ilustrate
 
 I wrote a shell script that will deploy all resources needed to build this topology. 
 
-Check them here : ![MHubs-Spokes-ARS-Injector-Deployment.sh]()
+Check them here : [MHubs-Spokes-ARS-Injector-Deployment.sh](../shell/mhub-spk-ars-nvabgp.sh)
 
 
 
