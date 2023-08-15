@@ -39,4 +39,4 @@ Their contributions and work on Azure Networking have motivated me to create and
 # Scenarios
 1 - [Two HUBs & Spokes + Azure Route Server + Route Injector](Mhub_Spokes_ARS_Injector)
 
-2 - [Azure Virtual Wan + Linux NVAs ](azvWAN-NVAS)
+2 - [Azure Virtual Wan + Linux NVAs ](azvWAN-NVAS) 
