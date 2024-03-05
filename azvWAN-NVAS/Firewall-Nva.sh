@@ -4,7 +4,7 @@
 #  Merits to the author - Daniel Mauser. 
 # 
 #
-# Installb and set  admin stuff 
+# Install  and set  admin stuff 
 # Cockpit enable a Web interface for management - at https://$HOSTIP:9090 
 ufw disable 
 apt update && apt -y net-tools bind9-utils cockpit 
